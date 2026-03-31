@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in college doing a T-Level in Digital Software Development. My name is Ahmed and I am 17, I am on placement with 2 companie, being Hippo Digital and Manchester Digital. I code Python and I am learning JavaScript, CSS and React along with HTMl at the moment. I want to become a Software Engineer and I am also building a company of my own, named Flowo
+I'm currently in college doing a T-Level in Digital Software Development. My name is Ahmed and I am 17, I am on placement with 2 companies, being Hippo Digital and Manchester Digital. I code Python and I am learning JavaScript, CSS and React along with HTMl at the moment. I want to become a Software Engineer and I am also building a company of my own, named Flowo, which will be an AI under the name of Flowo itself so I will publish other products, such as Flowo Notes and Flowo Calendar along with Flowo itself.
 
 
 ## 🌐 Socials:
