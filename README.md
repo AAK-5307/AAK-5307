@@ -17,7 +17,7 @@ Software Developer studying at The Manchester College. I'm 17 and on placement w
 👯 &nbsp;I'm looking to collaborate on **anything really, reach out!**  
 💬 &nbsp;Ask me about **Python, C#, and coffee**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **I've got connections and I wanna make more**
+⚡ &nbsp;Fun fact: **I've got connections and I wanna make more (PS: Stats are wrong cause all my repo's are private)**
 
 ### 🛠️ Tech Stack
 
