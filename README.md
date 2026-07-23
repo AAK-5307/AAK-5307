@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software Developer studying at The Manchester College. I'm 17 and on placement with 2 companies, being Manchester Digital and Hippo Digital whilst building my own, Flowo, which will be an AI along with separate products such as Flowo Calendar and Flowo Notes, as well as Flowo itself.  I'm solid at Python, HTML, CSS, C# and learning JavaScript.
+Software Developer studying at The Manchester College. I'm 17 and on placement with 2 companies, being Manchester Digital and Hippo Digital whilst building my own, Flowo, which will become a Technological Consultancy, focused on making ends meet for clients.  I'm solid at Python, HTML, CSS, C# and learning JavaScript.
 
 🔭 &nbsp;I'm currently working on **a project with the Department of Education**  
 🌱 &nbsp;I'm currently learning **JavaScript**  
